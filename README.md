@@ -18,3 +18,6 @@ docker run hello-world
 ```
 docker build -t [nome]:latest
 ```
+```
+docker pull thxssio/docker
+```
