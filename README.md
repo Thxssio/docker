@@ -12,3 +12,6 @@ sudo sh get-docker.sh
 ```
 sudo usermod -aG docker [user_name]
 ```
+```
+docker run hello-world
+```
