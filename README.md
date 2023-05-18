@@ -15,3 +15,6 @@ sudo usermod -aG docker [user_name]
 ```
 docker run hello-world
 ```
+```
+docker build -t [nome]:latest
+```
